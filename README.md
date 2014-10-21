@@ -9,4 +9,6 @@ if applicable, gives location in the text of specified keywords. 5) generates to
 number of occurances of words of any given number of characters.
 
 Web application accesses employee database to allow users to generate queries based on either last name or employee number.  Users can 
-also add new employees to the database. Output is generated using .jsp files and java beans.
+also add new employees to the database. Output is generated using .jsp files and java beans. 
+
+*website up shortly*
